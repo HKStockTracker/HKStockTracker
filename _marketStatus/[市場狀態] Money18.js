@@ -68,4 +68,4 @@ var Source_marketStatus = function() {
 	}
 };
 
-sing = "test";
+var sing = "test";
