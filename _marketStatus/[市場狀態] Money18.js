@@ -68,6 +68,7 @@ var Source_marketStatus = function() {
 	}
 };
 
-sendToContent(Source_marketStatus);
+
 var sing = "test";
 console.log(sing);
+window.sendToContent(sing);
