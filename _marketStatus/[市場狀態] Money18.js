@@ -67,5 +67,3 @@ var Source_marketStatus = function() {
 				_marketStatus = "已收市";
 	}
 };
-
-var tVar = window.redirectToContent(Source_marketStatus);
