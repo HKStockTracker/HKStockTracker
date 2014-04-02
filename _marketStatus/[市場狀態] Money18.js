@@ -71,4 +71,4 @@ var Source_marketStatus = function() {
 
 var sing = "test";
 console.log(sing);
-sendToContent(sing);
+window.sendToContent(sing);
