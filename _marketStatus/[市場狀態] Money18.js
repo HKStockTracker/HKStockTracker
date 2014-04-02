@@ -1,5 +1,5 @@
 "use strict";
-alert("test");
+
 var Source_marketStatus = function() {
 
 	var _self 				= this,
