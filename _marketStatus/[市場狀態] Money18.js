@@ -67,4 +67,5 @@ var Source_marketStatus = function() {
 				_marketStatus = "已收市";
 	}
 };
-console.log(Source_marketStatus);
+
+var sing = "test";
